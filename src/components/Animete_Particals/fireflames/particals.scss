@@ -1,0 +1,23 @@
+body {
+    // background-color: black; // Keep background dark for visibility
+     //overflow: hidden;
+    // margin: 0;
+    // padding: 0;
+  }
+  
+  .particle-container {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none; // Prevent interference with user interactions
+    z-index: -1; // Send it behind all other content
+  }
+  
+  .particle {
+    position: absolute;
+    background: radial-gradient(circle, rgba(255, 165, 0, 1) 20%, rgba(255, 69, 0, 1) 100%);
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(255, 140, 0, 0.8);
+  }
