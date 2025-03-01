@@ -17,7 +17,7 @@
         left: 0;
         bottom: 0;
         width: 400px;
-        background-image:url("public/sidebackground.jpg");
+        background-image:url("/sidebackground.jpg");
         @include mobile{
             width: 220px;
         }

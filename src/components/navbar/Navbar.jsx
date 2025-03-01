@@ -14,10 +14,10 @@ const Navbar = ()=>{
             
                 <motion.span initial={{opacity:0, scale:0.5}} animate={{opacity:1, scale:1}} transition={{duration:0.5}}>Demon Slayer  -  鬼滅の刃 - Kimetsu no Yaiba</motion.span>
                 <motion.div initial={{opacity:0, scale:0.5}} animate={{opacity:1, scale:1}} transition={{duration:0.5}} className="social">
-                    <a href="https://www.facebook.com/yasiru.ravidith.5/"><img src="public\facebook.png" alt=""/></a>
-                    <a href="#"><img src="public\instagram.png" alt=""/></a>
-                    <a href="#"><img src="public\youtube.png" alt=""/></a>
-                    <a href="#"><img src="public\dribbble.png" alt=""/></a>
+                    <a href="https://www.facebook.com/yasiru.ravidith.5/"><img src="\facebook.png" alt=""/></a>
+                    <a href="#"><img src="\instagram.png" alt=""/></a>
+                    <a href="#"><img src="\youtube.png" alt=""/></a>
+                    <a href="#"><img src="\dribbble.png" alt=""/></a>
                     <BackgroundAudio/>
                 </motion.div>
             </div>

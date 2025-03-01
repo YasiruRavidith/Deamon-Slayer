@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import "./imgAnimet.scss";
 
-const flowerEmojis = ["public/inu.png"]; // Flower types
+const flowerEmojis = ["/inu.png"]; // Flower types
 const gridSize = 200; // Spacing between flowers in pixels
 
 const ImgAnimet = () => {

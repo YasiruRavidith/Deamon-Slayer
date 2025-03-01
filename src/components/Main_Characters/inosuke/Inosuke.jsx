@@ -57,11 +57,11 @@ const Inosuke =() => {
                         <a href="https://myanimelist.net/character/146157/Nezuko_Kamado"><motion.button variants={textVariants} whileHover={{background:"lightgray", color:"black"}} whileTap={{scale:0.95}}>More Details</motion.button></a>
                         <a href="https://myanimelist.net/character/146157/Nezuko_Kamado"><motion.button variants={textVariants}  whileHover={{background:"lightgray", color:"black"}} whileTap={{scale:0.95}}>My Anime List</motion.button></a>   
                     </motion.div>
-                    <motion.img variants={textVariants} animate="scrollButton" src="public\scroll.png" alt="" />
+                    <motion.img variants={textVariants} animate="scrollButton" src="\scroll.png" alt="" />
                 </motion.div>
                 <motion.div className="slidingTextContainer" variants={sliderVariants} initial="initial" animate="animate">INOSUKE HASHIBIRA</motion.div>
                 <div className="imageContainer">
-                    <img src="public/inusuke.png" alt="" />
+                    <img src="\inusuke.png" alt="" />
                 </div>
             </div>
         </div>

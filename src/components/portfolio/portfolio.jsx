@@ -6,7 +6,7 @@ const items = [
     {
         id:1,
         title:"Muichiro Tokito",
-        img:"public/Muichiro Tokito.webp",
+        img:"/Muichiro Tokito.webp",
         desc:"Tokitou Muichirou is a Demon Slayer and the Mist Pillar of the Demon Killing Corps. He is usually cold but has a soft side for people that reminds him of his family.",
         link:"https://myanimelist.net/character/151147/Muichirou_Tokitou",
 
@@ -15,7 +15,7 @@ const items = [
     {
         id:2,
         title:"Sanemi Shinazugawa",
-        img:"public/Sanemi Shinazugawa.webp",
+        img:"/Sanemi Shinazugawa.webp",
         desc:"Shinazugawa Sanemi is a Demon Slayer and the Wind Pillar of the Demon Slayer Corps",
         link:"https://myanimelist.net/character/151147/Muichirou_Tokitou",
 
@@ -24,7 +24,7 @@ const items = [
     {
         id:3,
         title:"Gyoumei Himejima",
-        img:"public/Gyomei Himejima.webp",
+        img:"/Gyomei Himejima.webp",
         desc:"Himejima Gyoumei is the Stone Pillar of the Demon Slayer Corps",
         link:"https://myanimelist.net/character/151146/Gyoumei_Himejima",
 
@@ -33,7 +33,7 @@ const items = [
     {
         id:4,
         title:"Obanai Iguro",
-        img:"public/Obanai Iguro.jpg",
+        img:"/Obanai Iguro.jpg",
         desc:"Iguro Obanai is a Demon Hunter and the Snake Pillar of the Demon Killing Corps.",
         link:"https://myanimelist.net/character/151148/Obanai_Iguro?q=Obanai%20Iguro&cat=character",
 
@@ -42,7 +42,7 @@ const items = [
     {
         id:5,
         title:"Tengen Uzui",
-        img:"public/Tengen Uzui.webp",
+        img:"/Tengen Uzui.webp",
         desc:"Age: 23 Birthday: October 31 Height: 198 cm  Weight: 95 kg (209 lbs) Affiliation: Demon Slayer Corps Combat Style: Sound Breathing Uzui Tengen is a Demon Hunter and the Sound Pillar of the Demon Killing Corps.",
         link:"https://myanimelist.net/character/151144/Tengen_Uzui?q=Tengen%20Uzui&cat=character",
 

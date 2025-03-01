@@ -29,7 +29,7 @@ const Parallax = ({type}) =>{
             <motion.div className="mountains"></motion.div>
             <motion.div className="planets" style={{
                 //y: yText, translateY: yText,
-                backgroundImage:`url(${type==="services" ? "public/all.png" : "/sun.png"})`,
+                backgroundImage:`url(${type==="services" ? "/all.png" : "/sun.png"})`,
             }}
             animate={{
                 translateY: ["100%", "0%"],
