@@ -3,7 +3,7 @@ import "./zenitsu.scss"
 import { motion } from "framer-motion"
 import Particals from "../../Animete_Particals/fireflames/Particals";
 import Flowers from "../../Animete_Particals/floatingFlowes/Flowers";
-import Tringles from "../../Animete_Particals/triangles/tringles";
+import Tringles from "../../Animete_Particals/triangles/Tringles";
 
 const textVariants ={
     initial:{
