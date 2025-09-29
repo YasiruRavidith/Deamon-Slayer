@@ -96,7 +96,7 @@ const Contact =()=>{
                 >
                     <input type="text" required placeholder="Name" name="name" />
                     <input type="email" required placeholder="Email" name="email" />
-                    <textarea rows={8} placeholder="Massage" name="massage"/>
+                    <textarea rows={8} placeholder="Massage" name="message"/>
                     <button>Submit</button>
                     {error && "Error"}
                     {Success && "Success"}
